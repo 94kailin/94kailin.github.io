@@ -1,0 +1,29 @@
+.heroimg {
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+
+.text-mary {
+    color: rgb(255, 255, 255);
+}
+
+.btn-mary {
+    background-color: rgb(197, 159, 106);
+    color: #fff;
+}
+
+.btn-mary:hover {
+    background-color: rgb(68, 16, 102);
+    color: #fff;
+}
+
+.card {
+    transition: all .4s; 
+}
+
+.card:hover {
+    transform: translate(-5px, -5px) rotate(-1deg); 
+    box-shadow: 5px 5px 5px #e2e2e2; 
+}
+
+
